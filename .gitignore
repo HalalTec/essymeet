@@ -1,0 +1,5 @@
+vercel
+package-lock
+package
+.env
+node_modules
